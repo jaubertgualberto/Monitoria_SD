@@ -14,7 +14,7 @@ module tb_fulladder;
     integer i;
 
     // 2. Instanciar DUT e conectar variáveis
-    fulladd fa0 (
+    fulladder fa0 (
         .a(a),
         .b(b),
         .c_in(c_in),
