@@ -1,5 +1,5 @@
 `timescale 1ns / 100ps //Define unidade de tempo e precisão 
-							  //`timescale <unidade de tempo> / <precisão de tempo>
+					   //`timescale <unidade de tempo> / <precisão de tempo>
 
 //Define que todas as constantes do código (como #10) são interpretadas como nanosegundos
 
